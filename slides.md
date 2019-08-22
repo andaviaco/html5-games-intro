@@ -41,7 +41,7 @@ h1 {
 ![bg 100%](img/3d-demo.gif)
 
 ---
-![bg](#123)
+<!-- ![bg](#123) -->
 <!-- _class: invert -->
 ## HTML5: Ventajas 👍
 * Juegos multiplataforma
