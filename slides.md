@@ -2,8 +2,8 @@
 marp: true
 title: Videojuegos con HTML5
 theme: gaia
-paginate: true
-_paginate: false
+# paginate: true
+# _paginate: false
 ---
 
 <!-- _class: gaia lead -->
