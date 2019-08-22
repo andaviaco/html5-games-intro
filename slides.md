@@ -48,7 +48,7 @@ h1 {
 
 * Desarrollo en plataformas móviles nativas
 
-* Facil distribución
+* Fácil distribución
 
 * Compatibles con nuevas plataformas como Facebook Instant Games
 
